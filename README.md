@@ -133,4 +133,3 @@ Para se manter à par das atualizações desse projeto, você pode 'Favoritar' e
    [VSCode]: <https://code.visualstudio.com/>
    [VSCodeDownload]: <https://code.visualstudio.com/download>
    [VSCodeDocs]: <https://code.visualstudio.com/docs>
-   
