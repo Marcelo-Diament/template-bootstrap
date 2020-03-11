@@ -95,9 +95,10 @@ $ git pull origin master
 Changelog é um log de atualizações, ou seja, a cada novo merge com a master, listaremos aqui o que foi desenvolvido.
 
 ### v0.0.1
-> Inclusão do arquivo README.md
 
 > Estruturação básica do projeto (arquivos e pastas)
+
+> Inclusão do arquivo README.md
 
 
 ## Dica
